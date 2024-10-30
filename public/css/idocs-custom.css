@@ -1,0 +1,8 @@
+/* DON'T REMOVE!!!!
+
+   CSS for public-facing functionality.
+   This is a placeholder css file handler to load css dynamically.
+   wp_enqueue_style is used to enqueue this file based on conditions and then the css_handler 
+   is used by wp_add_inline_style to add the required css.
+
+*/

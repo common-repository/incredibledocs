@@ -1,0 +1,73 @@
+/*--------------------------------------------*/
+.idocs-dashboard-card {
+  max-width: 100%;
+  margin-bottom: 10px;
+  border-width: 2px;
+}
+/*--------------------------------------------*/
+.kpi-card {
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+   border: 1px solid rgba(0, 0, 0, 0.175);;
+   border-radius: 4%;
+   box-sizing: border-box;
+   text-align: center; 
+   padding: 10px;
+   margin-bottom: 10px; 
+ }
+/*--------------------------------------------*/
+ .kpi-card-box-1, .kpi-card-box-2 {
+    flex: 0 0 25%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+/*--------------------------------------------*/
+ .kpi-card-box-2 {
+    flex: 0 0 75%;
+    display: flex;
+    flex-direction: column;
+ }
+/*--------------------------------------------*/
+ .kpi-card-title {
+   flex: 1;
+   font-size: 1.25rem;
+   font-weight: 600;
+   color: #3498db;
+   box-sizing: border-box;
+ }
+
+ .kpi-card-sub-title {
+  flex: 1;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #3498db;
+  box-sizing: border-box;
+}
+
+ /*--------------------------------------------*/
+ .kpi-value {
+   flex: 1;        
+   font-size: 1.7rem;
+   font-weight: 600;
+   box-sizing: border-box;
+ }
+ /*---------------------------------------------------------------------------------------*/
+ .idocs-star-rating {
+
+  /*display: flex; 
+  align-items: center; */
+  display: inline; /* Display the main span inline */
+  
+}
+.idocs-star-rating span {
+    display: inline-block; /* Display the nested spans as inline-block */
+    vertical-align: middle; /* Align the nested spans vertically in the middle */
+  
+}
+.idocs-star-rating svg{
+    
+  fill:orange;
+}

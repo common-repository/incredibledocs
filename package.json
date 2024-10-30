@@ -1,0 +1,19 @@
+{
+  "name": "incredibledocs",
+  "version": "1.0.25",
+  "description": "=== IncredibleDocs - Documentation & Knowledge Base Management System === Contributors: incrediblewp Tags: documentation, documents, knowledgebase, wiki, knowledge base, support, knowledge-base, docs, document, customer support, helpdesk, help desk Requires at least: 6.4 Tested up to: 6.4 Stable tag: 1.0.0 Requires PHP: 7.4 License: GPLv3 or later License URI: http://www.gnu.org/licenses/gpl-3.0.html",
+  "scripts": {
+    "build": "wp-scripts build src/class-idocs-custom-sidebar.js",
+    "build2": "wp-scripts build",
+    "start": "wp-scripts start",
+    "packages-update": "wp-scripts packages-update",
+    "plugin-zip": "wp-scripts plugin-zip"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/icons": "^10.1.0",
+    "@wordpress/scripts": "^27.9.0"
+  }
+}

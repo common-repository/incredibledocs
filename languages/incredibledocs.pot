@@ -1,0 +1,2138 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IncredibleDocs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-18 17:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Domain: incredibledocs"
+
+#: public/templates/idocs_document_content.php:46
+msgid " Minutes to Read"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:283
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:91
+#: admin/pages/idocs-admin-page-dashboard.php:141
+#: admin/pages/idocs-admin-page-dashboard.php:155
+msgid "(Content)"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1369
+msgid ""
+"A category can't be changed for an existing faq-group. Create a new faq-"
+"group if a different category is needed."
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1348
+msgid ""
+"A knowledge base can't be changed for an existing faq-group. Create a new "
+"faq-group if a different knowledge base is needed."
+msgstr ""
+
+#: admin/pages/settings-general-shortcodes.php:114
+msgid "A time frame in days."
+msgstr ""
+
+#: admin/pages/settings-general-shortcodes.php:106
+msgid "A unique number of the category term."
+msgstr ""
+
+#: admin/pages/settings-general-shortcodes.php:110
+msgid "A unique number of the document post."
+msgstr ""
+
+#: admin/pages/settings-general-shortcodes.php:102
+msgid "A unique number of the knowledge base term."
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:88
+msgid "Access Control"
+msgstr ""
+
+#: public/templates/idocs_document_view.php:11
+#: public/templates/idocs_faqgroup_view.php:14
+#: public/templates/idocs_kb_view.php:15 public/templates/idocs_tag_view.php:15
+msgid "Access Denied"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:580 admin/class-idocs-admin-menu.php:622
+msgid "Access Type"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:312
+msgid "Access Type (Pro)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6732
+msgid "Active Item Text Color"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:143
+msgid "Add a New Category"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:343
+msgid "Add a New FAQ Group"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:48
+msgid "Add a New Knowledge base"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:299
+msgid "Add a New Tag"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:516 admin/class-idocs-taxanomies.php:576
+#: admin/class-idocs-taxanomies.php:655 admin/class-idocs-taxanomies.php:757
+msgid "Add Icon"
+msgstr ""
+
+#: admin/class-idocs-custom-post-types.php:35
+#: admin/class-idocs-custom-post-types.php:36
+msgid "Add New Content"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:146
+msgid "Add or remove Categories"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:346
+msgid "Add or remove FAQ Group"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:51
+msgid "Add or remove Knowledge base"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:302
+msgid "Add or remove Tags"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:138
+msgid "All Categories"
+msgstr ""
+
+#: admin/class-idocs-custom-post-types.php:33
+msgid "All Content"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:429
+msgid "All Content Types"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:338
+msgid "All FAQ Groups"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:43
+msgid "All Knowledge bases"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:745
+msgid "All Logged-in Users"
+msgstr ""
+
+#: public/templates/idocs_live_search.php:121
+msgid "All Main Categories"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:294
+msgid "All Tags"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3811
+msgid "Animated Categories"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1177 admin/class-idocs-taxanomies.php:1223
+msgid ""
+"Assign a background color to the tag to be used when displaying list of tags "
+"for a specific document."
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1297
+msgid ""
+"Assign a category instance to the new faq group or place it under the "
+"knowledge base root. If empty, please create a category."
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:620
+msgid ""
+"Assign a knowledge base instance to the new category. If the list is empty, "
+"please create a knowledge base.\t"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1285
+msgid ""
+"Assign a knowledge base instance to the new faq group. If empty, please "
+"create a knowledge base."
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1167
+msgid ""
+"Assign a knowledge base instance to the new tag. If empty, please create a "
+"knowledge base."
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:344
+msgid "Assign the content to a knowledge-base and then select a category."
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:368
+msgid "Assign the FAQ to a specific FAQ Group."
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:426
+msgid ""
+"Assing a number to control how content items will be displayed inside a "
+"category."
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:438
+msgid "Assing tags to the content from the available knowledge-base tags."
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:254 admin/class-idocs-admin-menu.php:1014
+#: admin/customizer/class-idocs-customizer.php:2127
+msgid "Author"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:35
+msgid "Automated"
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:15
+msgid "Automated URLs Structure"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:848
+#: admin/customizer/class-idocs-customizer.php:1147
+#: admin/customizer/class-idocs-customizer.php:1312
+#: admin/customizer/class-idocs-customizer.php:1514
+#: admin/customizer/class-idocs-customizer.php:1653
+#: admin/customizer/class-idocs-customizer.php:1974
+#: admin/customizer/class-idocs-customizer.php:2291
+#: admin/customizer/class-idocs-customizer.php:2840
+#: admin/customizer/class-idocs-customizer.php:3222
+#: admin/customizer/class-idocs-customizer.php:3531
+#: admin/customizer/class-idocs-customizer.php:3861
+#: admin/customizer/class-idocs-customizer.php:4107
+#: admin/customizer/class-idocs-customizer.php:4580
+#: admin/customizer/class-idocs-customizer.php:5037
+#: admin/customizer/class-idocs-customizer.php:5314
+#: admin/customizer/class-idocs-customizer.php:5410
+#: admin/customizer/class-idocs-customizer.php:5531
+#: admin/customizer/class-idocs-customizer.php:5823
+#: admin/customizer/class-idocs-customizer.php:5968
+#: admin/customizer/class-idocs-customizer.php:6512
+#: admin/customizer/class-idocs-customizer.php:6610
+#: admin/customizer/class-idocs-customizer.php:6782
+#: admin/customizer/class-idocs-customizer.php:7085
+#: admin/customizer/class-idocs-customizer.php:7528
+#: admin/customizer/class-idocs-customizer.php:7646
+#: admin/customizer/class-idocs-customizer.php:7763
+#: admin/customizer/class-idocs-customizer.php:7964
+#: admin/customizer/class-idocs-customizer.php:8135
+#: admin/customizer/class-idocs-customizer.php:8230
+#: admin/customizer/class-idocs-customizer.php:8383
+#: admin/customizer/class-idocs-customizer.php:8556
+#: admin/customizer/class-idocs-customizer.php:8719
+#: admin/customizer/class-idocs-customizer.php:8929
+#: admin/customizer/class-idocs-customizer.php:9381
+#: admin/customizer/class-idocs-customizer.php:9794
+msgid "Background Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3430
+#: admin/customizer/class-idocs-customizer.php:3557
+#: admin/customizer/class-idocs-customizer.php:4896
+#: admin/customizer/class-idocs-customizer.php:9697
+msgid "Background Hover Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:873
+#: admin/customizer/class-idocs-customizer.php:1170
+#: admin/customizer/class-idocs-customizer.php:2316
+#: admin/customizer/class-idocs-customizer.php:3887
+#: admin/customizer/class-idocs-customizer.php:8406
+#: admin/customizer/class-idocs-customizer.php:9817
+msgid "Background Image"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1335
+#: admin/customizer/class-idocs-customizer.php:2339
+#: admin/customizer/class-idocs-customizer.php:3048
+#: admin/customizer/class-idocs-customizer.php:3247
+#: admin/customizer/class-idocs-customizer.php:4195
+#: admin/customizer/class-idocs-customizer.php:5556
+#: admin/customizer/class-idocs-customizer.php:5992
+#: admin/customizer/class-idocs-customizer.php:7552
+#: admin/customizer/class-idocs-customizer.php:7670
+#: admin/customizer/class-idocs-customizer.php:7787
+#: admin/customizer/class-idocs-customizer.php:7988
+#: admin/customizer/class-idocs-customizer.php:8254
+#: admin/customizer/class-idocs-customizer.php:8742
+#: admin/customizer/class-idocs-customizer.php:9017
+msgid "Border Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1357
+#: admin/customizer/class-idocs-customizer.php:2363
+#: admin/customizer/class-idocs-customizer.php:3019
+#: admin/customizer/class-idocs-customizer.php:4218
+#: admin/customizer/class-idocs-customizer.php:5580
+#: admin/customizer/class-idocs-customizer.php:6016
+#: admin/customizer/class-idocs-customizer.php:8764
+#: admin/customizer/class-idocs-customizer.php:9040
+msgid "Border Radius (px)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1383
+#: admin/customizer/class-idocs-customizer.php:2390
+#: admin/customizer/class-idocs-customizer.php:2992
+#: admin/customizer/class-idocs-customizer.php:4245
+#: admin/customizer/class-idocs-customizer.php:5607
+#: admin/customizer/class-idocs-customizer.php:6042
+#: admin/customizer/class-idocs-customizer.php:7573
+#: admin/customizer/class-idocs-customizer.php:8009
+#: admin/customizer/class-idocs-customizer.php:8790
+#: admin/customizer/class-idocs-customizer.php:9067
+msgid "Border Width (px)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2599
+#: admin/customizer/class-idocs-customizer.php:2766
+msgid "Bottom Padding (px)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:7109
+msgid "Bottom-Border Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:7130
+msgid "Bottom-Border Width (px)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6068
+msgid "Box Shadow"
+msgstr ""
+
+#: admin/pages/design-customizer-page.php:63
+#: admin/pages/design-customizer-page.php:90
+msgid "Breadcrumb Bar"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:556
+msgid "Breadcrumbs"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:787
+#: admin/customizer/class-idocs-customizer.php:1124
+msgid "Breadcrumbs-Bar"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4152
+#: admin/customizer/class-idocs-customizer.php:8974
+msgid "Card Shadow"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3831
+msgid "Cards Order By"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:72 admin/class-idocs-admin-settings.php:102
+#: admin/pages/idocs-admin-page-dashboard.php:205
+msgid "Categories"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:566
+#: admin/pages/design-customizer-page.php:68
+msgid "Categories Cards"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:250 admin/class-idocs-admin-menu.php:645
+#: admin/class-idocs-taxanomies.php:135 admin/class-idocs-taxanomies.php:1355
+#: admin/pages/settings-general-urls.php:32
+#: src/class-idocs-custom-sidebar.js:354
+msgid "Category"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4675
+#: admin/customizer/class-idocs-customizer.php:9476
+msgid "Category Description (Main Cat.)"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:635 admin/class-idocs-taxanomies.php:740
+msgid "Category Icon"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:626 admin/class-idocs-taxanomies.php:729
+msgid "Category Order"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:147
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:347
+msgid "Choose from the most used FAQ Groups"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:52
+msgid "Choose from the most used knowledge base"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:303
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: admin/pages/settings-general-shortcodes.php:20
+#: admin/pages/settings-general-shortcodes.php:57
+msgid "Code"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1904
+msgid "Collect Form Feedback"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1864
+msgid "Collect Likes Rating"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1884
+msgid "Collect Stars Rating"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:7862
+msgid "Collection Probability (%)"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:600
+#: admin/customizer/class-idocs-customizer.php:1000
+msgid "Color"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:1015
+msgid "Comment"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:306
+msgid "Configuration Summary"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:62
+#: admin/class-idocs-custom-post-types.php:29
+#: admin/class-idocs-custom-post-types.php:30
+msgid "Content"
+msgstr ""
+
+#: admin/pages/design-customizer-page.php:131
+msgid "Content Cards"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:134
+msgid "Content Categories"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4534
+#: admin/customizer/class-idocs-customizer.php:9335
+msgid "Content Counters"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4074
+#: admin/customizer/class-idocs-customizer.php:8896
+msgid "Content Order By"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:195
+msgid "Content Summary"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:290
+msgid "Content Tags"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:248 src/class-idocs-custom-sidebar.js:330
+msgid "Content Type"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:520
+msgid "Controls the design settings for the a knowledgebase."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:557
+msgid "Controls the design settings for the breadcrumbs module."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:567
+msgid "Controls the design settings for the categories cards module."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:597
+msgid "Controls the design settings for the document content."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:587
+msgid "Controls the design settings for the document view."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:667
+msgid "Controls the design settings for the faq group view."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:577
+msgid "Controls the design settings for the FAQs module."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:637
+msgid "Controls the design settings for the feedback form module."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:537
+msgid "Controls the design settings for the knowledge-base view."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:627
+msgid "Controls the design settings for the likes rating module."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:547
+msgid "Controls the design settings for the live search module."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:607
+msgid "Controls the design settings for the sidebar navigator module."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:617
+msgid "Controls the design settings for the Table of Content(TOC) module."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:657
+msgid "Controls the design settings for the tag content cards."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:647
+msgid "Controls the design settings for the tag view."
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:583 admin/class-idocs-admin-menu.php:604
+#: admin/class-idocs-admin-menu.php:626 admin/class-idocs-admin-menu.php:648
+msgid "Count"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6373
+msgid "Counter Background Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6396
+msgid "Counter Border Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6346
+msgid "Counter Size (rem)"
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:53
+msgid "Custom configured link"
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:57
+msgid "Custom configured video link"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:43
+msgid "Custom KB Page"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:42
+#: admin/pages/settings-general-custom-kb-pages.php:36
+msgid "Custom KB Pages"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:157
+msgid "Custom knowledge base page is not defined."
+msgstr ""
+
+#: admin/class-idocs-themes.php:137
+msgid "Custom Theme"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:72
+msgid "Custom Theme Builder"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:58 admin/class-idocs-themes.php:123
+msgid "Customizer"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:52
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:255
+msgid "Date"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:1119
+msgid "Delay must be bigger or equal to 100ms."
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:581 admin/class-idocs-admin-menu.php:602
+#: admin/class-idocs-admin-menu.php:624
+#: admin/pages/settings-general-shortcodes.php:95
+msgid "Description"
+msgstr ""
+
+#: admin/class-idocs-custom-post-types.php:50
+msgid "Description."
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:51
+msgid "Design"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:79
+msgid "Design Tools"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:77
+msgid "Disabled"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:253 src/class-idocs-custom-sidebar.js:424
+msgid "Display Order"
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:48
+msgid "Document"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:596
+#: admin/pages/design-customizer-page.php:98
+msgid "Document Content"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1630
+msgid "Document Tags"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1844
+msgid "Document Tags (End of Doc)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2047
+msgid "Document Tags (Top Doc)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2067
+msgid "Document Title"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:586
+#: admin/pages/design-customizer-page.php:82
+msgid "Document View"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:201
+msgid "Documents"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:141
+msgid "Edit Category"
+msgstr ""
+
+#: admin/class-idocs-custom-post-types.php:37
+msgid "Edit Content"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:341
+msgid "Edit FAQ Group"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:46
+msgid "Edit Knowledge base"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:297
+msgid "Edit Tag"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:164
+msgid "Email Reporting"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:78
+msgid "Enabled"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:402
+msgid "Enter a Video URL"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:412
+msgid "Enter a YouTube Video URL"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:382
+msgid "Enter Link URL"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2107
+msgid "Estimated Time to Read"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:367
+msgid "FAQ Group"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1304 admin/class-idocs-taxanomies.php:1376
+msgid "FAQ Group Order"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:666
+#: admin/pages/design-customizer-page.php:140
+msgid "FAQ Group View"
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:40
+msgid "FAQ Group/FAQ (Category)"
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:36
+msgid "FAQ Group/FAQ (Root KB)"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:92 admin/class-idocs-taxanomies.php:334
+#: admin/class-idocs-taxanomies.php:349
+#: admin/pages/idocs-admin-page-dashboard.php:207
+msgid "FAQ Groups"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:335
+msgid "FAQ-Group"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:576
+#: admin/customizer/class-idocs-customizer.php:807
+#: admin/pages/design-customizer-page.php:73
+#: admin/pages/design-customizer-page.php:149
+#: admin/pages/idocs-admin-page-dashboard.php:203
+msgid "FAQs"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:251
+msgid "FAQs Group"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:636
+msgid "Feedback Form"
+msgstr ""
+
+#: admin/pages/design-customizer-page.php:111
+msgid "Feedback Form (Pro)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:7889
+msgid "Feedback Title"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:1077
+msgid "Feedback Title can't be empty."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2209
+#: admin/customizer/class-idocs-customizer.php:2497
+#: admin/customizer/class-idocs-customizer.php:2687
+#: admin/customizer/class-idocs-customizer.php:2938
+#: admin/customizer/class-idocs-customizer.php:3293
+#: admin/customizer/class-idocs-customizer.php:4436
+#: admin/customizer/class-idocs-customizer.php:4629
+#: admin/customizer/class-idocs-customizer.php:4695
+#: admin/customizer/class-idocs-customizer.php:4770
+#: admin/customizer/class-idocs-customizer.php:5059
+#: admin/customizer/class-idocs-customizer.php:5188
+#: admin/customizer/class-idocs-customizer.php:5286
+#: admin/customizer/class-idocs-customizer.php:5432
+#: admin/customizer/class-idocs-customizer.php:5744
+#: admin/customizer/class-idocs-customizer.php:6440
+#: admin/customizer/class-idocs-customizer.php:6556
+#: admin/customizer/class-idocs-customizer.php:7004
+#: admin/customizer/class-idocs-customizer.php:7299
+#: admin/customizer/class-idocs-customizer.php:8083
+#: admin/customizer/class-idocs-customizer.php:8178
+#: admin/customizer/class-idocs-customizer.php:8507
+#: admin/customizer/class-idocs-customizer.php:9237
+#: admin/customizer/class-idocs-customizer.php:9430
+#: admin/customizer/class-idocs-customizer.php:9496
+#: admin/customizer/class-idocs-customizer.php:9571
+msgid "Font Size (rem)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2523
+msgid "Font Weight"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:141
+msgid "Frontend Shortcodes"
+msgstr ""
+
+#: admin/pages/settings-general-shortcodes.php:12
+msgid "Frontend Shortcodes (Core)"
+msgstr ""
+
+#: admin/pages/settings-general-shortcodes.php:49
+msgid "Frontend Shortcodes (Pro)"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:747
+#: admin/class-idocs-admin-settings.php:109
+msgid "Groups"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3193
+#: admin/customizer/class-idocs-customizer.php:4271
+#: admin/customizer/class-idocs-customizer.php:8870
+msgid "Height (px)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3791
+#: admin/customizer/class-idocs-customizer.php:5924
+msgid "Hide Empty Categories"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5507
+msgid "Home Text"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5484
+msgid "Home URL"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4129
+#: admin/customizer/class-idocs-customizer.php:5338
+#: admin/customizer/class-idocs-customizer.php:5848
+#: admin/customizer/class-idocs-customizer.php:7375
+#: admin/customizer/class-idocs-customizer.php:7694
+#: admin/customizer/class-idocs-customizer.php:7811
+#: admin/customizer/class-idocs-customizer.php:8279
+#: admin/customizer/class-idocs-customizer.php:8951
+msgid "Hover Background Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6707
+msgid "Hover Text Background Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6683
+msgid "Hover Text Color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://incrediblewp.io"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://incrediblewp.io/incredibledocs/"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:577 admin/class-idocs-admin-menu.php:621
+#: admin/customizer/class-idocs-customizer.php:4344
+#: admin/customizer/class-idocs-customizer.php:9145
+msgid "Icon"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1793
+#: admin/customizer/class-idocs-customizer.php:3378
+#: admin/customizer/class-idocs-customizer.php:3583
+#: admin/customizer/class-idocs-customizer.php:4392
+#: admin/customizer/class-idocs-customizer.php:4848
+#: admin/customizer/class-idocs-customizer.php:6228
+#: admin/customizer/class-idocs-customizer.php:6635
+#: admin/customizer/class-idocs-customizer.php:7622
+#: admin/customizer/class-idocs-customizer.php:7739
+#: admin/customizer/class-idocs-customizer.php:9193
+#: admin/customizer/class-idocs-customizer.php:9649
+msgid "Icon Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4364
+#: admin/customizer/class-idocs-customizer.php:4796
+#: admin/customizer/class-idocs-customizer.php:9165
+#: admin/customizer/class-idocs-customizer.php:9597
+msgid "Icon Size (px)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3322
+#: admin/customizer/class-idocs-customizer.php:6200
+#: admin/customizer/class-idocs-customizer.php:6582
+msgid "Icon Size (rem)"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:1016
+msgid "In response to"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-idocs-custom-post-types.php:31
+msgid "IncredibleDocs"
+msgstr ""
+
+#. Author of the plugin
+msgid "IncredibleWP"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3071
+msgid "Input Bar Width (%)"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:922
+msgid "Invalid checkbox value."
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:21
+msgid "Item"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:579 admin/class-idocs-admin-menu.php:601
+#: admin/class-idocs-admin-menu.php:644
+msgid "KB"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:42
+msgid "KB Name"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:957
+msgid "KB Root"
+msgstr ""
+
+#: admin/class-idocs-themes.php:130
+msgid "KB Theme"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:46
+msgid "KB URL"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:1051
+msgid "KBs Root Slug can't be empty."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3708
+msgid "Keystroke Delay before Search (ms)"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:249 admin/class-idocs-admin-menu.php:1019
+#: admin/class-idocs-taxanomies.php:707 admin/class-idocs-taxanomies.php:1333
+#: admin/pages/idocs-admin-page-dashboard.php:200
+#: admin/pages/settings-general-urls.php:28
+msgid "Knowledge Base"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:40
+msgid "Knowledge base"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:558
+msgid "Knowledge Base Icon"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:491
+msgid "Knowledge base Icon"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:536
+#: admin/pages/design-customizer-page.php:55
+msgid "Knowledge Base View"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:102 admin/class-idocs-admin-settings.php:95
+#: admin/class-idocs-taxanomies.php:39
+msgid "Knowledge Bases"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:54
+msgid "Knowledge bases"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:311
+#: src/class-idocs-custom-sidebar.js:343
+msgid "Knowledge-Base"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:79
+msgid "last 7 days"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:208
+msgid "Last Content Update"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2087
+msgid "Last Updated Date"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1271
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6806
+msgid "Left-Border Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6857
+msgid "Left-Border Width (px)"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:189
+msgid "License"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:180
+#: admin/class-idocs-admin-settings.php:196
+msgid "License Key"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:626
+msgid "Likes Rating"
+msgstr ""
+
+#: admin/pages/design-customizer-page.php:106
+msgid "Likes Rating (Pro)"
+msgstr ""
+
+#: admin/pages/settings-general-shortcodes.php:118
+msgid "Limit the number of items."
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:52
+msgid "Link"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:202
+msgid "Links"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:546
+#: admin/customizer/class-idocs-customizer.php:767
+#: admin/customizer/class-idocs-customizer.php:1104
+#: admin/customizer/class-idocs-customizer.php:8361
+#: admin/customizer/class-idocs-customizer.php:9772
+msgid "Live Search"
+msgstr ""
+
+#: admin/pages/design-customizer-page.php:58
+#: admin/pages/design-customizer-page.php:85
+#: admin/pages/design-customizer-page.php:125
+#: admin/pages/design-customizer-page.php:143
+msgid "Live-Search Bar"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4969
+msgid "Lock Root FAQs"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer-multi-dimensions.php:35
+msgid "Margin (top, right, bottom, left)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:921
+#: admin/customizer/class-idocs-customizer.php:1214
+#: admin/customizer/class-idocs-customizer.php:1406
+#: admin/customizer/class-idocs-customizer.php:2414
+#: admin/customizer/class-idocs-customizer.php:3984
+#: admin/customizer/class-idocs-customizer.php:5109
+#: admin/customizer/class-idocs-customizer.php:5631
+#: admin/customizer/class-idocs-customizer.php:8450
+#: admin/customizer/class-idocs-customizer.php:8576
+#: admin/customizer/class-idocs-customizer.php:8813
+#: admin/customizer/class-idocs-customizer.php:9861
+msgid "Margin and Padding"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:1111
+msgid "Minimum amount of characters for search must be bigger than 0."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3961
+msgid "Minimum Height (px)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3681
+msgid "Minimum Input Size for Search"
+msgstr ""
+
+#: public/class-idocs-shortcodes.php:669 public/class-idocs-shortcodes.php:719
+msgid "Missing category icon"
+msgstr ""
+
+#: public/templates/idocs_live_search.php:64
+msgid "Missing KB icon"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:573 admin/class-idocs-admin-menu.php:599
+#: admin/class-idocs-admin-menu.php:620 admin/class-idocs-admin-menu.php:642
+msgid "Name"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:144
+msgid "New Category Name"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:344
+msgid "New FAQ Group Name"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:49
+msgid "New Knowledge base Name"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:300
+msgid "New Tag Name"
+msgstr ""
+
+#: public/templates/idocs_document_previous_next.php:21
+msgid "Next Document"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:407
+msgid "No"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:148
+msgid "No categories found."
+msgstr ""
+
+#: public/class-idocs-shortcodes.php:636
+msgid "No Content"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:277
+msgid "No Content."
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:348
+msgid "No FAQ Groups found."
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:53
+msgid "No Knowledge base found."
+msgstr ""
+
+#: admin/pages/design-customizer-page.php:18
+#: admin/pages/settings-general-custom-kb-pages.php:12
+msgid "No knowledge base instance is configured."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3122
+msgid "No Result Feedback Text"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:304
+#: public/templates/idocs_document_content.php:158
+#: public/templates/idocs_document_tags.php:48
+msgid "No Tags"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:708 admin/class-idocs-admin-menu.php:790
+#: admin/class-idocs-admin-menu.php:919 admin/class-idocs-admin-menu.php:971
+msgid "Not Allocated"
+msgstr ""
+
+#: admin/class-idocs-custom-post-types.php:40
+msgid "Not found"
+msgstr ""
+
+#: admin/class-idocs-custom-post-types.php:41
+msgid "Not found in trash"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:180
+msgid ""
+"Note - In case of using a custom kb page, copy the relevant shortcode and "
+"paste it into a shortcode-block inside the selected page using a page editor."
+" "
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3762
+msgid "Number of Columns"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5944
+msgid "Only Current Category"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1023
+msgid "Opacity"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:392
+msgid "Open in a new tab"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:629
+msgid ""
+"Optional - assign a number to the category to be used when displaying "
+"categories in specific order (1 - highest)."
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1307
+msgid ""
+"Optional - assign a number to the faq group to be used when displaying "
+"groups not alphabetically in specific order (1 - highest)."
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:578 admin/class-idocs-admin-menu.php:643
+msgid "Order"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3144
+msgid "Order Results Alphabetically"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1559
+#: admin/customizer/class-idocs-customizer.php:1698
+#: admin/customizer/class-idocs-customizer.php:1993
+#: admin/customizer/class-idocs-customizer.php:2962
+#: admin/customizer/class-idocs-customizer.php:3451
+#: admin/customizer/class-idocs-customizer.php:3606
+#: admin/customizer/class-idocs-customizer.php:4294
+#: admin/customizer/class-idocs-customizer.php:4915
+#: admin/customizer/class-idocs-customizer.php:5211
+#: admin/customizer/class-idocs-customizer.php:5358
+#: admin/customizer/class-idocs-customizer.php:5869
+#: admin/customizer/class-idocs-customizer.php:6109
+#: admin/customizer/class-idocs-customizer.php:6929
+#: admin/customizer/class-idocs-customizer.php:7153
+#: admin/customizer/class-idocs-customizer.php:7394
+#: admin/customizer/class-idocs-customizer.php:8032
+#: admin/customizer/class-idocs-customizer.php:9091
+#: admin/customizer/class-idocs-customizer.php:9716
+msgid "Padding"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer-multi-dimensions.php:50
+msgid "Padding (top, right, bottom, left)"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:44
+msgid "Page"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:827
+msgid "Page Title (Custom KB Page)"
+msgstr ""
+
+#: admin/pages/settings-general-shortcodes.php:21
+#: admin/pages/settings-general-shortcodes.php:58
+#: admin/pages/settings-general-shortcodes.php:88
+#: admin/pages/settings-general-shortcodes.php:94
+msgid "Parameters"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:139
+msgid "Parent Category"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:140
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:128
+msgid "Pending Comments"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:79
+msgid "Performance Overview"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2892
+msgid "Placeholder Color"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:137
+msgid "Popular Categories"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:337
+msgid "Popular FAQ Groups"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:42
+msgid "Popular Knowledge bases"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:293
+msgid "Popular Tags"
+msgstr ""
+
+#: public/templates/idocs_document_previous_next.php:16
+msgid "Previous Document"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2188
+msgid "Print Document"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:743
+msgid "Public"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:154
+msgid "Rating Score"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2167
+msgid "Rating Score (Pro)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1926
+#: public/templates/idocs_related_documents.php:33
+msgid "Related Documents"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:517 admin/class-idocs-taxanomies.php:577
+#: admin/class-idocs-taxanomies.php:656 admin/class-idocs-taxanomies.php:758
+msgid "Remove Icon"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1291
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:123
+msgid "Role Mapping"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:186
+#: admin/pages/settings-general-uninstall.php:24
+#: admin/pages/settings-general-urls.php:76
+msgid "Save Changes"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:469
+msgid "Scale-up to Pro (Coming Soon!)"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:315
+msgid "Scheduled Report (Pro)"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:136
+msgid "Search Categories"
+msgstr ""
+
+#: admin/class-idocs-custom-post-types.php:39
+msgid "Search Content"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:336
+msgid "Search FAQ Groups"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:41
+msgid "Search Knowledge bases"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2916
+msgid "Search Placeholder Text"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:114
+msgid "Search Success Rate"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:292
+msgid "Search Tags"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1292
+msgid "Select a Category"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:149
+msgid "Select a Document Category"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:607 admin/class-idocs-taxanomies.php:1155
+#: admin/class-idocs-taxanomies.php:1198 admin/class-idocs-taxanomies.php:1273
+#: admin/pages/design-customizer-page.php:27
+msgid "Select a Knowledge Base"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:95
+msgid "Select a Page"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:502
+msgid "Select an Icon"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:642
+msgid "Select an Icon:"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:572
+msgid "Select Category"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:510
+msgid "Select Content Type"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:609
+msgid "Select FAQs Group"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:539
+msgid "Select Knowledge Base"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:647
+msgid "Select Tags"
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:331
+msgid "Select the content type to get the relevant options."
+msgstr ""
+
+#: src/class-idocs-custom-sidebar.js:355
+msgid "Select the knowledge-base to get the relevant categories."
+msgstr ""
+
+#: admin/pages/design-customizer-page.php:47
+msgid ""
+"Select the relevant knowledge base before clicking on the required module!"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:145
+msgid "Separate categories with commas"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:345
+msgid "Separate FAQ Group with commas"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:50
+msgid "Separate Knowledge bases with commas"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:301
+msgid "Separate Tags with commas"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5669
+msgid "Separator Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5693
+msgid "Separator Font Size (rem)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3223
+msgid "Set background color for the search result container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3532
+msgid "Set background color for the search result content filters."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3431
+msgid "Set background color for the search result items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3558
+msgid "Set background hover color for the search result content filters."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3248
+msgid "Set border color for the search result container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3294
+msgid "Set font size for the search result items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3584
+msgid "Set icon color for the search result content filters."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3323
+msgid "Set icon size for the search result items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3452
+#: admin/customizer/class-idocs-customizer.php:3607
+msgid "Set padding for the search result items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3506
+msgid "Set text color for the search result content filters."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3352
+#: admin/customizer/class-idocs-customizer.php:3379
+msgid "Set text color for the search result items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3405
+msgid "Set text hover color for the search result items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5532
+msgid "Set the background color for the breadcrumbs constainer."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5824
+msgid "Set the background color for the breadcrumbs items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:849
+msgid ""
+"Set the background color for the knowledge-base container. Remove any "
+"selected image to use the background color."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2292
+msgid ""
+"Set the background color for the live-search container. Remove any selected "
+"image to use the background color."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2841
+msgid "Set the background color for the live-search input-output box."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:874
+msgid ""
+"Set the background image for the knowledge-base container. It will overtake "
+"the background color."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2317
+msgid ""
+"Set the background image for the live-search container. It will overtake the "
+"background color."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5557
+msgid "Set the border color for the breadcrumbs constainer."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3049
+msgid "Set the border color for the live search input container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2340
+msgid "Set the border color for the live-search container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5581
+msgid "Set the border radius for the breadcrumbs constainer."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3020
+msgid "Set the border radius for the live search input container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2364
+msgid "Set the border radius for the live-search container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5608
+msgid "Set the border width for the breadcrumbs constainer."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2993
+msgid "Set the border width for the live search input container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2391
+msgid "Set the border width for the live-search container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2600
+msgid "Set the bottom-padding for the live-search main title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2767
+msgid "Set the bottom-padding for the live-search sub-title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5485
+msgid "Set the breadcrumbs home url (default is the current website)."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1001
+msgid ""
+"Set the color for the knowledge-base icon (only for an icon selected using "
+"the plugin icon-picker)."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2893
+msgid "Set the color for the live search input-text placeholder ."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5670
+msgid "Set the color for the separator character between items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1407
+#: admin/customizer/class-idocs-customizer.php:8814
+msgid ""
+"Set the default margin and padding for the content and sidebars container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5110
+msgid "Set the default margin and padding for the FAQs Box container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2416
+msgid "Set the default margin and padding for the live search container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1215
+#: admin/customizer/class-idocs-customizer.php:8451
+#: admin/customizer/class-idocs-customizer.php:9862
+msgid "Set the default margin and padding for the quick button container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:8577
+msgid "Set the default margin and padding for the tag title container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4295
+#: admin/customizer/class-idocs-customizer.php:4916
+#: admin/customizer/class-idocs-customizer.php:9717
+msgid "Set the default padding for the category card container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:9092
+msgid "Set the default padding for the content card container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1994
+msgid "Set the default padding for the document content container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5212
+msgid "Set the default padding for the FAQs Group container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5359
+msgid "Set the default padding for the FAQs Item container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:8033
+msgid "Set the default padding for the feedback form container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1560
+msgid "Set the default padding for the left sidebar container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3608
+msgid "Set the default padding for the live search result content filters."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3453
+msgid "Set the default padding for the live search result item container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6110
+msgid "Set the default padding for the navigation container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1699
+msgid "Set the default padding for the right side container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6930
+msgid "Set the default padding for the TOC box container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:7395
+msgid "Set the default padding for the TOC items container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:7154
+msgid "Set the default padding for the TOC title container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5745
+msgid "Set the font size for the breadcrumbs items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2939
+msgid "Set the font size for the live search input."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5694
+msgid "Set the font size for the separator character between items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5849
+msgid "Set the hover background color for the breadcrumbs items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3709
+msgid "Set the keystock delay time in milliseconds before triggering search."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5632
+msgid "Set the margin and padding for the breadcrumbs container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3985
+msgid "Set the margin and padding for the for the categories container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:922
+msgid ""
+"Set the margin and padding for the knowledge-base container. Left & right "
+"margins are auto calculated based on the box width."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2415
+msgid "Set the margin and padding for the live-search container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3682
+msgid "Set the minimum amount of input characters for triggering search."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1024
+msgid "Set the opacity for the knowledge-base icon."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5870
+msgid "Set the padding for the breadcrumbs item container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2963
+msgid "Set the padding for the live search input container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5774
+msgid "Set the text color for the breadcrumbs items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2868
+msgid "Set the text color for the live-search input-output box."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2553
+msgid "Set the text color for the live-search main title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2717
+msgid "Set the text color for the live-search sub-title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5508
+msgid "Set the text content for the breadcrumbs home button."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2476
+msgid "Set the text content for the live-search main title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2666
+msgid "Set the text content for the live-search sub-title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3123
+msgid "Set the text content for the no-result scenario."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2498
+msgid "Set the text font size for the live-search main title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2688
+msgid "Set the text font size for the live-search sub-title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2524
+msgid "Set the text font weight for the live-search main title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2917
+msgid "Set the text for the live search placeholder."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:5799
+msgid "Set the text hover color for the breadcrumbs items."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2577
+msgid "Set the top-padding for the live-search main title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2742
+msgid "Set the top-padding for the live-search sub-title."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1052
+msgid "Set the width for the knowledge-base icon."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3072
+msgid "Set the width for the live search input container."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2811
+msgid "Set the width for the live-search input-output box."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:896
+msgid "Set the width of the knowledge-base container."
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:112
+msgid "Settings"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4171
+#: admin/customizer/class-idocs-customizer.php:6088
+#: admin/customizer/class-idocs-customizer.php:8993
+msgid "Shadow Color"
+msgstr ""
+
+#: admin/pages/settings-general-custom-kb-pages.php:45
+#: admin/pages/settings-general-shortcodes.php:19
+#: admin/pages/settings-general-shortcodes.php:56
+msgid "Shortcode"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6179
+msgid "Show Category Counter"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6159
+msgid "Show Category Icon"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:8638
+msgid "Show Documents"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:8698
+msgid "Show FAQs"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:8658
+msgid "Show Links"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:8678
+msgid "Show Vidoes"
+msgstr ""
+
+#: admin/pages/design-customizer-page.php:95
+msgid "Sidebar Nav."
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:606
+msgid "Sidebar Navigator"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3935
+msgid "Space between Cards"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6907
+msgid "Sticky TOC Top Margin (px)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6882
+msgid "Sticky TOC Z-Index"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2644
+msgid "Sub-Title"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2665
+msgid "Sub-Title Text"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:1017
+msgid "Submitted on"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:616
+#: admin/customizer/class-idocs-customizer.php:1610
+msgid "Table of Content (TOC)"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:1064
+msgid "Table of Content Title can't be empty."
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:291
+#: admin/pages/settings-general-urls.php:44
+msgid "Tag"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1749
+msgid "Tag Background Color"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:1174 admin/class-idocs-taxanomies.php:1218
+msgid "Tag Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:656
+msgid "Tag Content Cards"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:646
+#: admin/pages/design-customizer-page.php:122
+msgid "Tag View"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:82 admin/class-idocs-admin-menu.php:252
+#: admin/class-idocs-taxanomies.php:305
+#: admin/pages/idocs-admin-page-dashboard.php:206
+#: public/templates/idocs_document_tags.php:20
+#: src/class-idocs-custom-sidebar.js:437
+msgid "Tags"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:4462
+#: admin/customizer/class-idocs-customizer.php:4602
+#: admin/customizer/class-idocs-customizer.php:7030
+#: admin/customizer/class-idocs-customizer.php:9263
+#: admin/customizer/class-idocs-customizer.php:9403
+msgid "Text Alignment"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6466
+msgid "Text Bold"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2237
+#: admin/customizer/class-idocs-customizer.php:2552
+#: admin/customizer/class-idocs-customizer.php:2716
+#: admin/customizer/class-idocs-customizer.php:2867
+#: admin/customizer/class-idocs-customizer.php:3351
+#: admin/customizer/class-idocs-customizer.php:3505
+#: admin/customizer/class-idocs-customizer.php:4490
+#: admin/customizer/class-idocs-customizer.php:4556
+#: admin/customizer/class-idocs-customizer.php:4723
+#: admin/customizer/class-idocs-customizer.php:4824
+#: admin/customizer/class-idocs-customizer.php:5013
+#: admin/customizer/class-idocs-customizer.php:5166
+#: admin/customizer/class-idocs-customizer.php:5264
+#: admin/customizer/class-idocs-customizer.php:5773
+#: admin/customizer/class-idocs-customizer.php:6488
+#: admin/customizer/class-idocs-customizer.php:6659
+#: admin/customizer/class-idocs-customizer.php:7060
+#: admin/customizer/class-idocs-customizer.php:7327
+#: admin/customizer/class-idocs-customizer.php:7504
+#: admin/customizer/class-idocs-customizer.php:8111
+#: admin/customizer/class-idocs-customizer.php:8206
+#: admin/customizer/class-idocs-customizer.php:8534
+#: admin/customizer/class-idocs-customizer.php:9291
+#: admin/customizer/class-idocs-customizer.php:9357
+#: admin/customizer/class-idocs-customizer.php:9524
+#: admin/customizer/class-idocs-customizer.php:9625
+msgid "Text Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:3404
+#: admin/customizer/class-idocs-customizer.php:4872
+#: admin/customizer/class-idocs-customizer.php:5798
+#: admin/customizer/class-idocs-customizer.php:7351
+#: admin/customizer/class-idocs-customizer.php:9673
+msgid "Text Hover Color"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The easiest way to manage content for knowledge-bases and to provide "
+"incredible self-service support center for your customers."
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:314
+msgid "Theme (Pro)"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:65
+msgid "Theme Selection"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6322
+msgid "Title Background Color"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6277
+msgid "Title Bold"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6251
+#: admin/customizer/class-idocs-customizer.php:7473
+#: admin/customizer/class-idocs-customizer.php:7911
+msgid "Title Font Size (rem)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2475
+#: admin/customizer/class-idocs-customizer.php:4990
+#: admin/customizer/class-idocs-customizer.php:6982
+msgid "Title Text"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:6299
+#: admin/customizer/class-idocs-customizer.php:7939
+msgid "Title Text Color"
+msgstr ""
+
+#: admin/pages/design-customizer-page.php:101
+msgid "TOC"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:7267
+msgid "TOC Header End"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:7230
+msgid "TOC Header Start"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:133 admin/class-idocs-themes.php:144
+msgid "Tools"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2576
+#: admin/customizer/class-idocs-customizer.php:2741
+msgid "Top Padding (px)"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:140
+msgid "Total Ratings"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:103
+msgid "Total Searches"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:90
+msgid "Total Visits"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:431
+msgid "Training Course"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:1018
+#: admin/pages/settings-general-shortcodes.php:18
+#: admin/pages/settings-general-shortcodes.php:55
+msgid "Type"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:148
+msgid "Uninstall"
+msgstr ""
+
+#: admin/pages/settings-general-uninstall.php:14
+msgid "Uninstall Settings"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:142
+msgid "Update Category"
+msgstr ""
+
+#: admin/class-idocs-custom-post-types.php:38
+msgid "Update Content"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:342
+msgid "Update FAQ Group"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:47
+msgid "Update Knowledge base"
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:298
+msgid "Update Tag"
+msgstr ""
+
+#: public/templates/idocs_document_content.php:32
+msgid "Updated on "
+msgstr ""
+
+#: admin/class-idocs-taxanomies.php:512 admin/class-idocs-taxanomies.php:651
+msgid "Upload an Icon"
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:22
+msgid "URL Structure"
+msgstr ""
+
+#: admin/class-idocs-admin-menu.php:623
+#: admin/pages/idocs-admin-page-dashboard.php:313
+msgid "URL Type"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:27
+msgid "URLs"
+msgstr ""
+
+#: admin/class-idocs-admin-settings.php:116
+msgid "Users"
+msgstr ""
+
+#: admin/pages/settings-general-urls.php:56
+msgid "Video"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:204
+msgid "Videos"
+msgstr ""
+
+#: admin/class-idocs-custom-post-types.php:34
+msgid "View Content"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:2147
+msgid "Visits Counter (Pro)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:895
+#: admin/customizer/class-idocs-customizer.php:1051
+#: admin/customizer/class-idocs-customizer.php:1191
+#: admin/customizer/class-idocs-customizer.php:2810
+#: admin/customizer/class-idocs-customizer.php:3908
+#: admin/customizer/class-idocs-customizer.php:5085
+#: admin/customizer/class-idocs-customizer.php:8427
+#: admin/customizer/class-idocs-customizer.php:9838
+msgid "Width (%)"
+msgstr ""
+
+#: admin/customizer/class-idocs-customizer.php:1537
+#: admin/customizer/class-idocs-customizer.php:1676
+msgid "Width (1/12 %)"
+msgstr ""
+
+#: admin/pages/idocs-admin-page-dashboard.php:404
+msgid "Yes"
+msgstr ""
